@@ -11,7 +11,7 @@ email: blakescott1997@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Testing website for Blake Scott's projects.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://blakescott.link" # the base hostname & protocol for your site
+url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: blakescott1997
 github_username:  blakescott1997
 
